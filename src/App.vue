@@ -31,7 +31,7 @@ export default{
 
 <style>
 .item-selected{
-  background-color: red;
+  background-color: khaki
 }
 </style>
 
